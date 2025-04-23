@@ -1,9 +1,8 @@
 <h1 align="center">Hola, soy Pablo</h1>
-<h3 align="center">Un programador español</h3>
 
 - 🌱 Estoy estudiando **Ingeniería informática**
 
-- 📫 Como contactar conmigo **pablousky4@gmail.com**
+- 📫 Como contactar conmigo: **pablousky4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
