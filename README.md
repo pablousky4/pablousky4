@@ -7,12 +7,11 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 
-<!-- Contenedor principal: izquierda = iconos, derecha = gif -->
-<div style="display:flex; align-items:center; gap:20px; flex-wrap:nowrap;">
+<!-- Contenedor principal -->
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:20px;">
 
-  <!-- IZQUIERDA: area fija para iconos (evita que se envuelvan alrededor del GIF) -->
-  <div style="width:72%; min-width:300px; display:flex; flex-wrap:wrap; gap:10px; align-items:flex-start;">
-    <!-- Agrupa iconos en filas dentro del área izquierda -->
+  <!-- IZQUIERDA: iconos -->
+  <div style="flex:1; min-width:300px; display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -37,12 +36,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </div>
 
-  <!-- DERECHA: area fija para GIF (no se moverá de su sitio) -->
-  <div style="width:28%; min-width:120px; display:flex; justify-content:center; align-items:center;">
+  <!-- DERECHA: GIF -->
+  <div style="flex:0 0 auto; display:flex; justify-content:center; align-items:center;">
     <img
       src="https://camo.githubusercontent.com/7d32f1046f9203b9862b94f65b249640742c8701bf19fecd72183292541fe38e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3045786b3845557a534c7372457245512f67697068792e676966"
       alt="Dancing Dog"
-      style="max-width:120px; height:auto; display:block;"
+      style="max-width:140px; height:auto; border-radius:10px;"
     />
   </div>
 
